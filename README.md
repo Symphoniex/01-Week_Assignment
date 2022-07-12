@@ -13,4 +13,4 @@ Used the DRY method to shorten .Css that was repeating
 
 
 
-<img src="Screen Shot 2022-07-10 at 7.34.35 PM.png" alt="Alt text" title="Screenshot of website">
+<img src="Screenshot.png" alt="Screenshot of website" title="Screenshot of website">
